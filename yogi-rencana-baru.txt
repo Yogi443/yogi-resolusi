@@ -1,11 +1,16 @@
 Rencana Konten Yogi
 - Makan
   * Bakso
+    ^ Sapi
+    ^ Ayam
+    ^ Merpati
   * Mie Ayam
     ^ Ayam
     ^ Sapi
     ^ Gtahu
 - Membaca
+- Berenang
+- Menari
 - Liburan
 - Jalan
 - Terbang
