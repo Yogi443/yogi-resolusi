@@ -2,6 +2,9 @@ Rencana Konten Yogi
 - Makan
   * Bakso
   * Mie Ayam
+    ^ Ayam
+    ^ Sapi
+    ^ Gtahu
 - Membaca
 - Liburan
 - Jalan
