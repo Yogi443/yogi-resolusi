@@ -3,8 +3,11 @@ Rencana Konten Yogi
   * Bakso
     ^ Sapi
     ^ Ayam
+    ^ Merpati
   * Mie Ayam
+  * Seblak
 - Membaca
+- Berenang
 - Menari
 - Liburan
 - Jalan
