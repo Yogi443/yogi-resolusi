@@ -1,5 +1,7 @@
 Rencana Konten Yogi
 - Makan
+  * Bakso
+  * Mie Ayam
 - Liburan
 - Jalan
 - Terbang
