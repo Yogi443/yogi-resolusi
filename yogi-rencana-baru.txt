@@ -4,13 +4,17 @@ Rencana Konten Yogi
     ^ Sapi
     ^ Ayam
     ^ Merpati
+    ^ Tikus
   * Mie Ayam
     ^ Ayam
     ^ Sapi
     ^ Gtahu
+    ^ Pedas
+    ^ Manis
 - Membaca
 - Berenang
 - Menari
 - Liburan
 - Jalan
 - Terbang
+- Berlari
